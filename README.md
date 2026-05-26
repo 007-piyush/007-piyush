@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 Btech CSE 2027<br>
-📊 GATE Score: 496 | 🏆 All India Rank: 7798 | 📝 Marks: 42.47 / 100<br>
+GATE 2026 || 📊 GATE Score: 496 | 🏆 All India Rank: 7798 | 📝 Marks: 42.47 / 100<br>
 
 
 ## 🌐 Socials:
