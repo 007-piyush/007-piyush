@@ -2,7 +2,8 @@
 
 
 # 💫 About Me:
-i am a Btech CSE student at Sitmarhi institute of technology<br>
+Btech CSE 2027<br>
+📊 GATE Score: 496 | 🏆 All India Rank: 7798 | 📝 Marks: 42.47 / 100<br>
 
 
 ## 🌐 Socials:
